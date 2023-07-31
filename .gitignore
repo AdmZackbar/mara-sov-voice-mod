@@ -1,0 +1,4 @@
+*.XCOM_sln
+*.XCOM_suo
+/BuildCache
+/.scripts

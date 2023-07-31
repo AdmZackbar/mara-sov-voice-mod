@@ -1,0 +1,17 @@
+[MaraSovVoiceModBodyPartTemplate X2BodyPartTemplate]
+DisplayName="Mara Sov"
+
+; WotC classes - uncomment the lines below and the relevant lines in \Config\XComContent.int
+
+[MaraSovVoiceModBodyPartTemplate_Reaper X2BodyPartTemplate]
+DisplayName="Mara Sov"
+
+[MaraSovVoiceModBodyPartTemplate_Skirmisher X2BodyPartTemplate]
+DisplayName="Mara Sov"
+
+[MaraSovVoiceModBodyPartTemplate_Templar X2BodyPartTemplate]
+DisplayName="Mara Sov"
+
+; SPARKs - uncomment the lines below and the relevant line in \Config\XComContent.int
+[MaraSovVoiceModBodyPartTemplate_Spark X2BodyPartTemplate]
+DisplayName="Mara Sov"
