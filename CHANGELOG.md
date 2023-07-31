@@ -5,5 +5,4 @@
 - Content: 357 voice lines, voice pack icon
 - Config: templates for each character type
 - Localization: lines for Mara Sov (Radio) for each character type
-- SRC: voice pack icon screen listener
 - SRC: robojumper voice cue hook

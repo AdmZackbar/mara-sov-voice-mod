@@ -39,9 +39,6 @@
     <Content Include="Config\XComContent.ini" />
     <Content Include="Content\NamingInfo.txt" />
     <Content Include="Localization\XComGame.int" />
-    <Content Include="Src\MaraSovVoiceMod\Classes\UISL_UICustomizeMaraSovVoice.uc">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Src\MaraSovVoiceMod\Classes\X2DownloadableContentInfo_MaraSovVoiceMod.uc" />
     <Content Include="Src\MaraSovVoiceMod\Classes\RobojumperCharacterVoice_MaraSovVoiceMod.uc" />
   </ItemGroup>
