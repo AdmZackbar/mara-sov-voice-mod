@@ -103,7 +103,7 @@ These are cues that have absolutely no voice lines yet.
 
 ### Target Heard/Alien Moving
 
-1. I just heard something.
+1. I just heard... something.
 2. We're not alone here.
 3. Listen... what is that?
 4. Hold on… something's out there.
@@ -209,7 +209,7 @@ These are cues that have absolutely no voice lines yet.
 ### Hunker Down
 
 1. Keeping my head down.
-2. Staying tucked in.
+2. Digging in.
 3. Maintaining position.
 4. Holding here.
 5. Staying down.
