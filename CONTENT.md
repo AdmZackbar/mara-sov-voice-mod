@@ -218,7 +218,7 @@ These are cues that have absolutely no voice lines yet.
 
 1. Throwing a grenade!
 2. Grenade out!
-3. I wouldn't want to catch this one.
+3. Catch this.
 4. This one's going to be loud!
 5. Tossing a ‘nade!
 6. One grenade, coming right up!
@@ -327,7 +327,7 @@ These are cues that have absolutely no voice lines yet.
 
 ### Throw Scanner
 
-1. Getting us eyes on that sector.
+1. Getting us eyes on that area.
 2. Scanning that area now.
 3. Scanning.
 4. Let's have a look, shall we?
@@ -336,6 +336,7 @@ These are cues that have absolutely no voice lines yet.
 
 1. This feels... different.
 2. Feeling... invigorated.
+3. Feeling good!
 
 ### Grappling Hook
 
@@ -410,8 +411,8 @@ These are cues that have absolutely no voice lines yet.
 ### Soldier Resists Mind Control
 
 1. My mind remains my own.
-2. Your lesser mind could never take mine.
-3. A foolish attempt that will be repaid in kind.
+2. Your lesser mind could never control mine!
+3. A foolish attempt that will be repaid in kind!
 4. They will not take control, no matter how hard they try! *
 
 ## Physical Effects
@@ -427,7 +428,7 @@ These are cues that have absolutely no voice lines yet.
 ### Poison
 
 1. *coughing* I'm not feeling so good.
-2. *coughing* I'm poisoned.
+2. *coughing* I think I've been poisoned.
 3. *coughing* I'm feeling rather… unwell.
 
 ## Stun TODO
@@ -488,7 +489,7 @@ These are cues that have absolutely no voice lines yet.
 
 ### Hack Unit Failed
 
-1. Negative, MEC is still hostile.
+1. Negative, that MEC is still hostile.
 2. [HackTurretFailed 2,3]
 
 ### Hack Workstation
@@ -649,7 +650,6 @@ These are cues that have absolutely no voice lines yet.
 1. Time to disappear.
 2. Running quiet.
 3. Going dark.
-4. Now you see me TODO
 
 ## Grenadier
 
@@ -687,7 +687,8 @@ These are cues that have absolutely no voice lines yet.
 ### Kill Zone
 
 1. Let them come.
-2. [Overwatch 4,7]
+2. Got a kill zone here.
+3. [Overwatch 4,7]
 
 ### Fan Fire TODO
 
@@ -719,16 +720,16 @@ These are cues that have absolutely no voice lines yet.
 
 ### Domination
 
-1. Your mind belongs to me.
-2. Give in to me.
-3. Your will... will break.
-4. Don't try to resist.
+1. Your mind belongs to me!
+2. Give in to me!
+3. Your will... will break!
+4. Don't try to resist!
 5. Bow.
-6. Bend and break.
+6. Bend and break!
 
 ### Domination Fail
 
-1. Couldn't break in, their mind is strong.
+1. Couldn't break them, their mind is strong.
 2. This one was surprisingly strong willed.
 3. Their mind remains their own.
 4. A momentary lapse of judgement, nothing more. *
@@ -737,7 +738,7 @@ These are cues that have absolutely no voice lines yet.
 
 1. Your world will crumble around you!
 2. Feel the weight of the world on your shoulders!
-3. You are helpless and alone. Give up.
+3. You are helpless and alone. Give up!
 4. Your mind is weak!
 5. Break.
 6. Let your mind shatter!
