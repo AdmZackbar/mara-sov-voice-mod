@@ -12,20 +12,14 @@ These are cues that have absolutely no voice lines yet.
 - BulletShred
 - Burning
 - EngineerScienceVIP
-- FanFire
-- Mindblast
 - MissionAbortRequest
 - PanickedBreathing
 - StunnedAlien
 - TrippedBurrow
 - CivilianSighted_w
-- All WOTC Class Abilities
-- ArcThrower
-- AreaSuppressing
 - CoupDeGrace
 - DisablingShot
 - ElectroPulse
-- Flushing
 - OneForAll
 - ProximityMine
 - StunTarget
@@ -660,13 +654,12 @@ These are cues that have absolutely no voice lines yet.
 3. Understood, laying down suppressive fire.
 4. Understood, I'll keep their heads down.
 
-### Flushing TODO
+### Flushing
 
 1. Flushing them out!
-2. Understood, I'll flush them out of there.
-3. Get out of there!
-4. Nowhere left to run!
-5. [CivilianRescue 3]
+2. Get out of there!
+3. You have nowhere left to run!
+4. [CivilianRescue 3]
 
 ### Saturation Fire
 
@@ -690,9 +683,9 @@ These are cues that have absolutely no voice lines yet.
 2. Got a kill zone here.
 3. [Overwatch 4,7]
 
-### Fan Fire TODO
+### Fan Fire
 
-1. 
+1. [Banish 1]
 
 ## Specialist
 
@@ -743,9 +736,9 @@ These are cues that have absolutely no voice lines yet.
 5. Break.
 6. Let your mind shatter!
 
-### Mind Blast TODO
+### Mind Blast
 
-1. 
+1. [Insanity 4,5,6]
 
 ### Null Lance
 
@@ -770,37 +763,40 @@ These are cues that have absolutely no voice lines yet.
 4. I grant you my strength.
 5. You know what to do. *
 
-## Restored Abilities TODO
+## Restored Abilities
 
 ### Area Suppressing
 
-1. 
+1. Suppressing that area!
+2. Locking it down!
 
 ### Arc Thrower
 
-1. 
+1. Going for the stun!
+2. Lights out!
 
-### Coup De Grace
-
-1. 
-
-### Disabling Shot
+### Coup De Grace TODO
 
 1. 
 
-### Electro Pulse
+### Disabling Shot TODO
 
 1. 
 
-### One for All
+### Electro Pulse TODO
 
 1. 
 
-## Skirmisher TODO
+### One for All TODO
+
+1. 
+
+## Skirmisher
 
 ### Full Throttle
 
-1.
+1. Speeding up!
+2. Let's move!
 
 ### Combat Presence
 
@@ -808,95 +804,111 @@ These are cues that have absolutely no voice lines yet.
 
 ### Justice
 
-1. 
+1. Face me!
+2. Come meet your end!
 
 ### Manual Override
 
-1.
+1. Locking in.
+1. Locking in. (alt)
+2. Ready.
 
 ### Whiplash
 
-1.
+1. Lash out!
+2. This one's gonna hurt.
 
 ### Judgement
 
-1.
+1. [Taking Fire 4,5,6]
 
 ### Interrupt
 
-1.
+1. Hold it!
+2. Enough!
 
 ### Battlelord
 
-1.
+1. You're in my world now.
+2. My turn.
 
-## Reaper TODO
+## Reaper
 
 ### Shadow
 
-1. [Concealment 1,2,3]
-2. Into the shadows…
+1. Into the shadows…
+2. [Concealment 1,2,3]
 
 ### Target Definition
 
-1.
+1. Marking their positions.
+2. Enemy positions noted.
+3. Enemies marked.
 
 ### Homing Mine
 
-1.
+1. They won't know what hit them.
+2. Explosive attached and armed.
 
 ### Remote Start
 
-1.
+1. I know just the spot.
+2. Detonating now.
 
 ### Banish
 
-1. Eat this!
-2. Dodge this!
+1. Dodge this!
 
 ### Sting
 
-1.
+1. Taking the shot.
+2. Quickly and quietly.
 
-## Templar TODO
+## Templar
 
 ### Rend
 
 1. I will tear you apart!
-2. 
+2. Bend and break!
 
 ### Volt
 
-1.
+1. Giving them a shock!
+2. Shock and awe.
 
 ### Amplify
 
-1.
+1. Hit them with everything you've got!
+2. Target marked, give them hell!
 
 ### Pillar
 
-1.
+1. Cover going up!
+2. Making some cover over there!
 
 ### Invert
 
-1.
+1. Trading places!
+2. Switching positions!
 
 ### Exchange
 
-1.
+1. [Invert 1,2]
 
 ### Ghost
 
-1.
+1. Making us some support!
 
 ### Ionic Storm
 
-1.
+1. Let the storm consume you!
+2. [Volt 2]
 
 ### Void Conduit
 
-1.
+1. That'll hold for now.
+2. Locking them in!
 
 ### Stun Strike
 
-1.
+1. [Arc Thrower 1,2]

@@ -1,12 +1,12 @@
 # Mara Sov - Voice \[WOTC\]
 
-This is a fairly basic voice pack for Mara Sov (Kirsten Potter) of Destiny that adds about 350+ unique lines of dialogue. This mod is only for the WOTC expansion.
+This is a fairly basic voice pack for Mara Sov (Kirsten Potter) of Destiny that adds about 400+ unique lines of dialogue. This mod is only for the WOTC expansion.
 
 **DISCLAIMER**: most of the lines were AI generated, which might be distasteful for some. However, I think that in general they hold up well, and ultimately there would be no way to make a complete pack for her without the use of this technique.
 
 ## Contents
 
-This pack currently adds 1 new voice: Mara Sov (Radio). This voice includes a basic radio filter to match that of all default voices, and can be used with all females: basic soldiers, hero soldiers, and SPARKs. It contains 357 unique lines (with some lines being used for multiple cases where appropriate).
+This pack currently adds 1 new voice: Mara Sov (Radio). This voice includes a basic radio filter to match that of all default voices, and can be used with all females: basic soldiers, hero soldiers, and SPARKs. It contains 403 unique lines (with some lines being used for multiple cases where appropriate).
 
 This mod is also cooked, which has drastically reduced the size to just around 3 MB.
 

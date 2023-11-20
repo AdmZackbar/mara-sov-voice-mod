@@ -1,4 +1,16 @@
-## Unreleased
+## [1.0.0] - 2023-11-20
+
+### Added
+
+- All Skirmisher cues: Full Throttle, Combat Presence, Justice, Manual Override, Whiplash, Judgement, Interrupt, Battlelord
+- All Reaper cues: Shadow, Target Definition, Homing Mine, Remote Start, Banish, Sting
+- All Templar cues: Rend, Volt, Amplify, Pillar, Invert, Exchange, Ghost, Ionic Storm, Void Conduit, Stun Strike
+- Some more unused cues: Flush, Arc Thrower, Area Suppression
+- Mind Blast: 01-03
+
+### Changed
+
+- Domination: re-recorded 06
 
 ## [0.2.0] - 2023-10-24
 
